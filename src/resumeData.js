@@ -21,7 +21,7 @@ let resumeData = {
       }
     ],
   "aboutme":"I’m a nice fun and friendly person with a good sense of humour. I am able to work independently in busy environments and also within a team setting. I am a hard working always willing to learn new skills. I am currently looking for new opportunities.",
-  "locality": "Coruña",
+  "locality": "Coruña (A) - Spain",
   "address":"Porto de Santa Cruz, 15179 (Oleiros)",
   "mail":"pablotorre81@gmail.com",
   "education":[
@@ -59,7 +59,7 @@ let resumeData = {
       "YearOfStart":"2013",
       "MonthOfLeaving":"Dec.",
       "YearOfLeaving":"2015",
-      "Achievements":"Leading Big Data projects of the company applying Machine Learning algorithms. "
+      "Achievements":"Leading Big Data projects of the company applying Machine Learning algorithms. Development of a Vertical Farming software with RoR, Bootstrap, DynamoDB..."
     },
     {
       "CompanyName":"IpGlobal",
@@ -86,7 +86,7 @@ let resumeData = {
       "YearOfStart":"2009",
       "MonthOfLeaving":"Mar.",
       "YearOfLeaving":"2011",
-      "Achievements":"Analysis and development of web applications using Ruby on Rails and JRuby. "
+      "Achievements":"Analysis and development of web applications using Ruby on Rails, JRuby, Redis and Cassandra."
     },
     {
       "CompanyName":"Ecija",
