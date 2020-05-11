@@ -192,6 +192,11 @@ let resumeData = {
       "skillname":"Apache Mahout",
       "urlimage":"images/tech/mahout.png",
       "description": "I have been working with this machine-learning library for a company in order to build a Recommender Engine."
+    },
+    {
+      "skillname":"Apache Parquet",
+      "urlimage":"images/tech/parquet.png",
+      "description": "Experience with this columnar storage format in Big Data Projects."
     }
   ],
   "portfolio":[
