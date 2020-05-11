@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import {Skill} from './Skill'
+import {Course} from './Course'
 export default  class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -60,87 +62,38 @@ export default  class Resume extends Component {
          </div>
 
 
-         <div className="row skill">
+         <div className="row skills">
 
             <div className="three columns header-col">
                <h1><span>Skills</span></h1>
             </div>
             <div>
               <div className="nine columns main-col">
-
                  <p className="lead center">
                  {resumeData.skillsDescription}
                  </p>
               </div>
 
-   				    <div className="bgrid-quarters s-bgrid-thirds cf row">
-                {
-                  resumeData.skills1 && resumeData.skills1.map((item, index) => {
-                    return(
-                      <div key={index} className="col-md-4 columns feature-item">
-                        <img className="skill"  src={item.urlimage} alt={item.skillname} />
-                        <h5>{item.skillname}</h5>
-                        <p>{item.description}</p>
-                      </div>
-                    )
-                  })
-                }
-   					 </div>
-             <div className="bgrid-quarters s-bgrid-thirds cf row">
-               {
-                 resumeData.skills2 && resumeData.skills2.map((item, index) => {
-                   return(
-                     <div key={index} className="col-md-4 columns feature-item">
-                       <img className="skill"  src={item.urlimage} alt={item.skillname} />
-                       <h5>{item.skillname}</h5>
-                       <p>{item.description}</p>
-                     </div>
-                   )
-                 })
-               }
-            </div>
-            <div className="bgrid-quarters s-bgrid-thirds cf row">
-              {
-                resumeData.skills3 && resumeData.skills3.map((item, index) => {
-                  return(
-                    <div key={index} className="col-md-4 columns feature-item">
-                      <img className="skill"  src={item.urlimage} alt={item.skillname} />
-                      <h5>{item.skillname}</h5>
-                      <p>{item.description}</p>
-                    </div>
-                  )
-                })
-              }
-           </div>
-           <div className="bgrid-quarters s-bgrid-thirds cf row">
-             {
-               resumeData.skills4 && resumeData.skills4.map((item, index) => {
-                 return(
-                   <div key={index} className="col-md-4 columns feature-item">
-                     <img className="skill"  src={item.urlimage} alt={item.skillname} />
-                     <h5>{item.skillname}</h5>
-                     <p>{item.description}</p>
-                   </div>
-                 )
-               })
-             }
-          </div>
-          <div className="bgrid-quarters s-bgrid-thirds cf row">
-            {
-              resumeData.skills5 && resumeData.skills5.map((item, index) => {
-                return(
-                  <div key={index} className="col-md-4 columns feature-item">
-                    <img className="skill"  src={item.urlimage} alt={item.skillname} />
-                    <h5>{item.skillname}</h5>
-                    <p>{item.description}</p>
-                  </div>
-                )
-              })
-            }
-         </div>
+   				    <Skill skills={resumeData.skills1}/>
+              <Skill skills={resumeData.skills2}/>
+              <Skill skills={resumeData.skills3}/>
+              <Skill skills={resumeData.skills4}/>
+              <Skill skills={resumeData.skills5}/>
    				  </div>
 
 
+         </div>
+
+         <div className="row course">
+           <div className="three columns header-col">
+              <h1><span>Courses</span></h1>
+           </div>
+           <div>
+             <div className="nine columns main-col">
+                <Course resumeData={resumeData}/>
+             </div>
+
+           </div>
          </div>
 
       </section>

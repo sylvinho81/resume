@@ -224,6 +224,36 @@ let resumeData = {
       "description": "Inquieto y perseverante. Creo que son las palabras que mejor le describen. Pablo sabe adaptarse a todo tipo de proyecto, independientemente del lenguaje de programación o la tecnología a utilizar. Su afán por aprender y estar al día de las últimas tendencias hace que su entrada en un proyecto sea muy fácil.Su caracter afable también ayuda a su integración, ya que genera un muy buen ambiente de trabajo a su alrededor.",
       "name": "Alex Lloro (Digital Marketing Consultant. Helping companies to increase their sales & marketing ROI) "
     }
+  ],
+  "courses":[
+    {
+      "title":"Scala & Functional Programming for Beginners | Rock the JVM",
+      "url":"https://www.udemy.com/certificate/UC-2787deb8-1815-4aae-b575-b59671955f92/"
+    },
+    {
+      "title":"Python for Data Science",
+      "url":"https://courses.cognitiveclass.ai/certificates/536e19b94751497eb9099c73b13cab7e"
+    },
+    {
+      "title":"Apache Kafka Series - Learn Apache Kafka for Beginners v2",
+      "url":"https://www.udemy.com/certificate/UC-98IZE5NR/"
+    },
+    {
+      "title":"Simplifying data pipelines with Apache  Kafka",
+      "url":"https://courses.cognitiveclass.ai/certificates/c2840f0632894ecfbe9f8f7a8e072298"
+    },
+    {
+      "title":"Elasticsearch 7 and the Elastic Stack - In Depth & Hands On!",
+      "url":"https://www.udemy.com/certificate/UC-M6AHQ45I/"
+    },
+    {
+      "title":"Hands-on with Amazon Redshift",
+      "url":"https://www.udemy.com/certificate/UC-HTBA5WEH/"
+    },
+    {
+      "title":"Apache Spark with Scala",
+      "url":"http://ude.my/UC-OCJEUP9H"
+    }
   ]
 }
 
