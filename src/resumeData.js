@@ -41,7 +41,7 @@ let resumeData = {
       "YearOfStart":"2017",
       "MonthOfLeaving":"Apr.",
       "YearOfLeaving":"2020",
-      "Achievements":"Migration of the historical reporting engines and data feeds from legacy systems to the cloud in AWS. "
+      "Achievements":"Migration of the historical reporting engines and data feeds from legacy systems to the cloud in AWS mainly using AWS, Spark with Scala and Elasticsearch"
     },
     {
       "CompanyName":"Xtremis",
