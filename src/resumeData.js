@@ -218,11 +218,11 @@ let resumeData = {
   "testimonials":[
     {
       "description":"Pablo Torre worked during six months on his Master Thesis under my supervision in the Computer Science Department at the University of A Coruña in Spain. During this time, Pablo worked on the development of a Knowledge-Based system rigorously applying the CommonKADS methodology. Pablo demonstrated high commitment with his project, good grasp of basic knowledge, and a high level of personal proactivity and initiative. It was a pleasure to have him as a student.",
-      "name":"Bertha Guijarro (I+D en Inteligencia Artificial. Coordinadora del Grado en Ciencia e Ingeniería de Datos. Universidad de A Coruña)"
+      "name":"Bertha Guijarro"
     },
     {
       "description": "Inquieto y perseverante. Creo que son las palabras que mejor le describen. Pablo sabe adaptarse a todo tipo de proyecto, independientemente del lenguaje de programación o la tecnología a utilizar. Su afán por aprender y estar al día de las últimas tendencias hace que su entrada en un proyecto sea muy fácil.Su caracter afable también ayuda a su integración, ya que genera un muy buen ambiente de trabajo a su alrededor.",
-      "name": "Alex Lloro (Digital Marketing Consultant. Helping companies to increase their sales & marketing ROI) "
+      "name": "Alex Lloro"
     }
   ],
   "courses":[
