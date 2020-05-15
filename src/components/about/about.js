@@ -1,5 +1,12 @@
 import React, { Component } from 'react';
+import Pdf from "../../cv/pablo_torre_rodriguez_en_cv.pdf";
+
 export default class About extends Component {
+  onResumeClick() {
+    window.open(Pdf);
+  }
+
+
   render() {
     let resumeData = this.props.resumeData;
     return (
@@ -35,7 +42,7 @@ export default class About extends Component {
          					   </p>
                   </div>
                   <div className="columns download">
-                    <p><a className="button" target="_blank" href="/cv/pablo_torre_rodriguez_en_cv.pdf"><i className="fa fa-download"></i>Download Resume</a></p>
+                    <p><a className="button" onClick={this.onResumeClick}><i className="fa fa-download"></i>Download Resume</a></p>
                   </div>
                </div>
             </div>
