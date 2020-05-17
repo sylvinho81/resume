@@ -212,7 +212,7 @@ let resumeData = {
       "smallDescription": "Gas station finder.",
       "description":"You can filter by address, city, etc if you want to see the prices of the gas stations from a specific place. It shows the gas stations in Google Maps. It was developed with React in the frontend and Rails in the backend (REST API)",
       "imgurl":"images/portfolio/gas-station.png",
-      "urlSite":"https://gasolineras-spain.herokuapp.com/"
+      "urlSite":"https://preciosgasolineras.com/"
     }
   ],
   "testimonials":[
