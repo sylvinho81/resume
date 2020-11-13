@@ -1,6 +1,6 @@
 let resumeData = {
   "name": "Pablo Torre",
-  "role": "Senior Data Engineer and Full Stack Developer",
+  "role": "Senior Software Data Engineer and Full Stack Developer",
   "linkedinId":"https://www.linkedin.com/in/pablo-torre-rodriguez81",
   "roleDescription": "always willing to learn new technologies. ",
   "socialLinks":[
@@ -20,7 +20,7 @@ let resumeData = {
         "className":"fa fa-stack-overflow"
       }
     ],
-  "aboutme":"I’m a nice fun and friendly person with a good sense of humour. I am able to work independently in busy environments and also within a team setting. I am a hard working always willing to learn new skills. I am currently looking for new opportunities.",
+  "aboutme":"I’m a nice fun and friendly person with a good sense of humour. I am able to work independently in busy environments and also within a team setting. I am a hard working always willing to learn new skills.",
   "locality": "Coruña (A) - Spain",
   "address":"Porto de Santa Cruz, 15179 (Oleiros)",
   "mail":"pablotorre81@gmail.com",
@@ -34,6 +34,15 @@ let resumeData = {
     }
   ],
   "work":[
+    {
+      "CompanyName":"Informa D&B.",
+      "specialization":"Senior Software Engineer - Architecture team",
+      "MonthOfStart":"Jun.",
+      "YearOfStart":"2020",
+      "MonthOfLeaving":"Actualmente",
+      "YearOfLeaving":"",
+      "Achievements":""
+    },
     {
       "CompanyName":"GrayHair Software, Inc.",
       "specialization":"Senior Data Engineer - Architecture team - Technical Program Manager",
