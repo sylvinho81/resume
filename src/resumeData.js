@@ -41,7 +41,7 @@ let resumeData = {
       "YearOfStart":"2020",
       "MonthOfLeaving":"Actually",
       "YearOfLeaving":"",
-      "Achievements":""
+      "Achievements":" "
     },
     {
       "CompanyName":"GrayHair Software, Inc.",
