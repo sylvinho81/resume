@@ -36,10 +36,10 @@ let resumeData = {
   "work":[
     {
       "CompanyName":"Informa D&B.",
-      "specialization":"Senior Software Engineer - Architecture team",
+      "specialization":"Software Data Engineer - Architecture team",
       "MonthOfStart":"Jun.",
       "YearOfStart":"2020",
-      "MonthOfLeaving":"Actualmente",
+      "MonthOfLeaving":"Actually",
       "YearOfLeaving":"",
       "Achievements":""
     },
@@ -169,17 +169,17 @@ let resumeData = {
       "urlimage":"images/tech/redis.png",
       "description": "I have experience with this in-memory data structure store using it for deduplication and also for processing jobs asynchronously."
     }],
-    "skills3":[
-      {
-        "skillname":"Bootstrap",
-        "urlimage":"images/tech/bootstrap.jpg",
-        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others."
-      },
-      {
-        "skillname":"Sass",
-        "urlimage":"images/tech/sass.png",
-        "description": ""
-      },
+  "skills3":[
+    {
+      "skillname":"Bootstrap",
+      "urlimage":"images/tech/bootstrap.jpg",
+      "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others."
+    },
+    {
+      "skillname":"Sass",
+      "urlimage":"images/tech/sass.png",
+      "description": ""
+    },
     {
       "skillname":"React",
       "urlimage":"images/tech/react.jpg",
@@ -193,9 +193,14 @@ let resumeData = {
   ],
   "skills5":[
     {
-      "skillname":"Git",
-      "urlimage":"images/tech/git.jpg",
-      "description": "I use Git for all of my projects so far."
+      "skillname":"Vue JS",
+      "urlimage":"images/tech/vue.png",
+      "description": ""
+    },
+    {
+      "skillname":"Spring Boot",
+      "urlimage":"images/tech/spring.png",
+      "description": ""
     },
     {
       "skillname":"Apache Mahout",
