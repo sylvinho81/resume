@@ -36,12 +36,15 @@ let resumeData = {
   "work":[
     {
       "CompanyName":"Informa D&B.",
-      "specialization":"Software Data Engineer - Architecture team",
+      "specialization":"Sr. Software Data Engineer / Software Architect",
       "MonthOfStart":"Jun.",
       "YearOfStart":"2020",
       "MonthOfLeaving":"Actually",
       "YearOfLeaving":"",
-      "Achievements":" "
+      "Achievements": "I am part of the Architecture team supporting the rest of the company's teams: <br/><ul>" +
+                      "<li>Developing database solutions (SQL / NoSQL) to store and retrieve company information and implementing software and efficient code.</li>" +
+                      "<li>Installing and configuring information systems to ensure functionality.</li>" + 
+                      "<li>Analyzing structural requirements for new software and applications.</li></ul>"
     },
     {
       "CompanyName":"GrayHair Software, Inc.",
