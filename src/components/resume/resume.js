@@ -8,7 +8,6 @@ export default  class Resume extends Component {
     e.innerHTML = input;
     return e.childNodes.length === 0 ? "" : e.childNodes[0].nodeValue;
   }
-  
   render() {
     let resumeData = this.props.resumeData;
     return (
@@ -31,7 +30,7 @@ export default  class Resume extends Component {
                           {item.specialization}
                           <span>&bull;</span> <em className="date">{item.YearOfStart} - {item.YearOfPassing}</em></p>
                           <p>
-                          {item.Achievements}
+                          <div dangerouslySetInnerHTML={{ __html: this.htmlDecode(item.Achievements) }} />
                           </p>
                        </div>
                     </div>
