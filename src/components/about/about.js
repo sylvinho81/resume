@@ -35,8 +35,6 @@ export default class About extends Component {
          						<span>{resumeData.name}</span>
                       <br></br>
          						  <span>
-                       {resumeData.address}
-                       <br></br>
                        {resumeData.locality}
                       </span>
          					   </p>

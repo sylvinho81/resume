@@ -53,7 +53,14 @@ let resumeData = {
       "YearOfStart":"2017",
       "MonthOfLeaving":"Apr.",
       "YearOfLeaving":"2020",
-      "Achievements":"Migration of the historical reporting engines and data feeds from legacy systems to the cloud in AWS mainly using AWS, Spark with Scala, Elasticsearch, S3/Parquet and Redshift"
+      "Achievements":"Tech Leader (TPM) in charge of the Architecture team responsible for the re-" +
+                      "architecture of the old platform, migrating the reporting engines and data feeds" +
+                      "from legacy systems, built on top of SQL Server, to the cloud in AWS. Analysis," +
+                      "proof of concepts, design and develop ETL processes:" +
+                      "<br/><ul><li>Migration of the historical data (17 years) to AWS.</li>" + 
+                      "<li>Ingest daily data under the batch processing model because of legacy systems.</li>" + 
+                      "<li>Generate reports from historical and most recent data using batch processes" + 
+                      "with Spark and real-time searches with Elasticsearch respectively.</li></ul>"   
     },
     {
       "CompanyName":"Xtremis",
@@ -62,7 +69,7 @@ let resumeData = {
       "YearOfStart":"2015",
       "MonthOfLeaving":"Nov",
       "YearOfLeaving":"2017",
-      "Achievements":"Leading and implementing different projects for the company: E-Commerce with Spree, Web applications, REST APIs, etc"
+      "Achievements":"Analysis, design and development: Web, Ecommerce and REST API for mobile apps."
     },
     {
       "CompanyName":"Novotorium",
@@ -71,7 +78,13 @@ let resumeData = {
       "YearOfStart":"2013",
       "MonthOfLeaving":"Dec.",
       "YearOfLeaving":"2015",
-      "Achievements":"Leading Big Data projects of the company applying Machine Learning algorithms. Development of a Vertical Farming software with RoR, Bootstrap, DynamoDB..."
+      "Achievements":"Lead and develop the Big Data projects in the cloud with AWS. We were working in different projects applying machine learning algorithms like a Recommender Engine for a psychics platform and a Parental control app, a system capable of discerning potentially dangerous posts from the good ones. " +
+                    "<br/> I have also worked in a Vertical Farming Software for traceability, activity" +
+                    "management, cost monitoring, orders, packing, processing, and distribution. The" +
+                    "system was able to both collect automatically data from sensors located in the" +
+                    "warehouses and store the data in DynamoDB and collect data manually through" +
+                    "the administration panel, helping companies create perfect environments for" +
+                    "growing plants with optimal climate conditions and a wise use of resources."
     },
     {
       "CompanyName":"IpGlobal",
@@ -80,7 +93,7 @@ let resumeData = {
       "YearOfStart":"2013",
       "MonthOfLeaving":"Nov.",
       "YearOfLeaving":"2013",
-      "Achievements":"Analysis and development of ecommerce solutions using Spree (opensource software developed with Ruby on Rails)"
+      "Achievements":"Analysis and development of WEB applications RoR and Ecommerce with Spree."
     },
     {
       "CompanyName":"Informa D&B",
