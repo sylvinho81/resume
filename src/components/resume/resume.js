@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react';
 import {Skill} from './Skill'
 import {Course} from './Course'
-import parse from 'html-react-parser';
+
 export default  class Resume extends Component {
 
 
@@ -27,7 +27,7 @@ export default  class Resume extends Component {
                           {item.specialization}
                           <span>&bull;</span> <em className="date">{item.YearOfStart} - {item.YearOfPassing}</em></p>
                           <p>
-                          {parse(item.Achievements)}
+                          {(item.Achievements)}
                           </p>
                        </div>
                     </div>
@@ -52,7 +52,7 @@ export default  class Resume extends Component {
                           {item.specialization}
                           <span>&bull;</span> <em className="date">{item.MonthOfStart} {item.YearOfStart} - {item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
                           <p>
-                          {parse(item.Achievements)}
+                          {(item.Achievements)}
                           </p>
                        </div>
 
