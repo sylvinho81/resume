@@ -1,6 +1,6 @@
 let resumeData = {
   "name": "Pablo Torre",
-  "role": "Senior Software Data Engineer and Full Stack Developer",
+  "role": "Senior Software Architect / Data Engineer",
   "linkedinId":"https://www.linkedin.com/in/pablo-torre-rodriguez81",
   "roleDescription": "always willing to learn new technologies. ",
   "socialLinks":[
@@ -36,7 +36,7 @@ let resumeData = {
   "work":[
     {
       "CompanyName":"Informa D&B.",
-      "specialization":"Sr. Software Data Engineer / Software Architect",
+      "specialization":"Senior Software Architect / Data Engineer",
       "MonthOfStart":"Jun.",
       "YearOfStart":"2020",
       "MonthOfLeaving":"Actually",
@@ -48,7 +48,7 @@ let resumeData = {
     },
     {
       "CompanyName":"GrayHair Software, Inc.",
-      "specialization":"Senior Data Engineer - Architecture team - Technical Program Manager",
+      "specialization":"Senior Data Engineer - Technical Program Manager",
       "MonthOfStart":"Nov.",
       "YearOfStart":"2017",
       "MonthOfLeaving":"Apr.",
