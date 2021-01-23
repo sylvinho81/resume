@@ -55,8 +55,8 @@ let resumeData = {
       "YearOfLeaving":"2020",
       "Achievements":"Tech Leader (TPM) in charge of the Architecture team responsible for the re-" +
                       "architecture of the old platform, migrating the reporting engines and data feeds" +
-                      "from legacy systems, built on top of SQL Server, to the cloud in AWS. Analysis," +
-                      "proof of concepts, design and develop ETL processes:" +
+                      " from legacy systems, built on top of SQL Server, to the cloud in AWS. Analysis," +
+                      " proof of concepts, design and develop ETL processes:" +
                       "<br/><ul><li>Migration of the historical data (17 years) to AWS.</li>" + 
                       "<li>Ingest daily data under the batch processing model because of legacy systems.</li>" + 
                       "<li>Generate reports from historical and most recent data using batch processes" + 
@@ -80,11 +80,11 @@ let resumeData = {
       "YearOfLeaving":"2015",
       "Achievements":"Lead and develop the Big Data projects in the cloud with AWS. We were working in different projects applying machine learning algorithms like a Recommender Engine for a psychics platform and a Parental control app, a system capable of discerning potentially dangerous posts from the good ones. " +
                     "<br/> I have also worked in a Vertical Farming Software for traceability, activity" +
-                    "management, cost monitoring, orders, packing, processing, and distribution. The" +
-                    "system was able to both collect automatically data from sensors located in the" +
-                    "warehouses and store the data in DynamoDB and collect data manually through" +
-                    "the administration panel, helping companies create perfect environments for" +
-                    "growing plants with optimal climate conditions and a wise use of resources."
+                    " management, cost monitoring, orders, packing, processing, and distribution. The" +
+                    " system was able to both collect automatically data from sensors located in the" +
+                    " warehouses and store the data in DynamoDB and collect data manually through" +
+                    " the administration panel, helping companies create perfect environments for" +
+                    " growing plants with optimal climate conditions and a wise use of resources."
     },
     {
       "CompanyName":"IpGlobal",
@@ -151,17 +151,17 @@ let resumeData = {
     {
     "skillname":"Spark",
     "urlimage":"images/tech/spark.png",
-    "description": "I have used this engine for big data processing building ETL processes."
+    "description": ""
     },
     {
       "skillname":"Elasticsearch",
       "urlimage":"images/tech/elasticsearch.png",
-      "description": "I have used this search engine in order to build reports."
+      "description": ""
     },
     {
       "skillname":"Scala",
       "urlimage":"images/tech/scala.png",
-      "description": "I started to learn this language two years and a half more or less. I am using it with Spark. "
+      "description": ""
     }
     ],
   "skills2": [
@@ -173,12 +173,12 @@ let resumeData = {
     {
       "skillname":"Rails",
       "urlimage":"images/tech/rails.png",
-      "description": "I have been working with this framework arround 10 years."
+      "description": ""
     },
     {
       "skillname":"Ruby",
       "urlimage":"images/tech/ruby.jpg",
-      "description": "I have been working with this language arround 10 years using it together with Rails."
+      "description": ""
     },
     {
       "skillname":"Redis",
@@ -199,7 +199,7 @@ let resumeData = {
     {
       "skillname":"React",
       "urlimage":"images/tech/react.jpg",
-      "description": "I am fairly new to React. I am using it in order to build some personal projects like this portfolio."
+      "description": ""
     },
     {
       "skillname":"HTML/JS",
