@@ -57,10 +57,12 @@ let resumeData = {
                       "architecture of the old platform, migrating the reporting engines and data feeds" +
                       " from legacy systems, built on top of SQL Server, to the cloud in AWS. Analysis," +
                       " proof of concepts, design and develop ETL processes:" +
-                      "<br/><ul><li>Migration of the historical data (17 years) to AWS.</li>" + 
+                      "<br/><ul>"+
+                      "<li>Migration of the historical data (17 years) to AWS: S3, Apache Parquet and Glacier.</li>" + 
                       "<li>Ingest daily data under the batch processing model because of legacy systems.</li>" + 
                       "<li>Generate reports from historical and most recent data using batch processes" + 
-                      "with Spark and real-time searches with Elasticsearch respectively.</li></ul>"   
+                      "with Spark and real-time searches with Elasticsearch respectively.</li></ul>" + 
+                      "<li>Leading the development of the website and the API for the customers.</li>"  
     },
     {
       "CompanyName":"Xtremis",
@@ -93,7 +95,7 @@ let resumeData = {
       "YearOfStart":"2013",
       "MonthOfLeaving":"Nov.",
       "YearOfLeaving":"2013",
-      "Achievements":"Analysis and development of WEB applications RoR and Ecommerce with Spree."
+      "Achievements":"Analysis and development of WEB applications with Ruby on Rails and Ecommerce with Spree."
     },
     {
       "CompanyName":"Informa D&B",
@@ -111,7 +113,7 @@ let resumeData = {
       "YearOfStart":"2009",
       "MonthOfLeaving":"Mar.",
       "YearOfLeaving":"2011",
-      "Achievements":"Analysis and development of web applications using Ruby on Rails, JRuby, Redis and Cassandra."
+      "Achievements":"Analysis and development of web applications using Ruby on Rails, JRuby, Redis and Cassandra. Integration with third parties: Minube API for hotels and flights, etc"
     },
     {
       "CompanyName":"Ecija",
