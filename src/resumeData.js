@@ -59,9 +59,9 @@ let resumeData = {
                       " from legacy systems, built on top of SQL Server, to the cloud in AWS. Analysis," +
                       " proof of concepts, design and develop ETL processes:" +
                       "<br/><ul>"+
-                      "<li>Migration of the historical data (17 years) to AWS: S3, Apache Parquet and Glacier.</li>" + 
-                      "<li>Ingest daily data under the batch processing model because of legacy systems.</li>" + 
-                      "<li>Generate reports from historical and most recent data using batch processes" + 
+                      "<li> - Migration of the historical data (17 years) to AWS: S3, Apache Parquet and Glacier.</li>" + 
+                      "<li> - Ingest daily data under the batch processing model because of legacy systems.</li>" + 
+                      "<li> - Generate reports from historical and most recent data using batch processes" + 
                       "with Spark and real-time searches with Elasticsearch respectively.</li>" + 
                       "<li>Leading the development of the website and the API for the customers.</li></ul>"  
     },
