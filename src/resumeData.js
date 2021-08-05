@@ -43,7 +43,7 @@ let resumeData = {
       "YearOfLeaving":"",
       "Achievements": "<ul>" +
                       "<li>Developing database solutions (SQL / NoSQL) to store and retrieve company information and implementing software and efficient code.</li>" +
-                      "<ul><li>Migration of a monolith (RoR) to a microservices-based architecture (Event Driven, Kafka, Spring Boot, Vue, Elastic)</li></ul>" + 
+                      "<ul><li>Migration of a monolith (RoR) to a microservices-based architecture (Event Driven, Kafka, REST API, OpenApi, Spring Boot, Vue, Elastic)</li></ul>" + 
                       "<li>Installing and configuring information systems to ensure functionality. (K8S)</li>" + 
                       "<li>Analyzing structural requirements for new software and applications.</li></ul>"
     },
@@ -62,8 +62,8 @@ let resumeData = {
                       "<li>Migration of the historical data (17 years) to AWS: S3, Apache Parquet and Glacier.</li>" + 
                       "<li>Ingest daily data under the batch processing model because of legacy systems.</li>" + 
                       "<li>Generate reports from historical and most recent data using batch processes" + 
-                      "with Spark and real-time searches with Elasticsearch respectively.</li></ul>" + 
-                      "<li>Leading the development of the website and the API for the customers.</li>"  
+                      "with Spark and real-time searches with Elasticsearch respectively.</li>" + 
+                      "<li>Leading the development of the website and the API for the customers.</li></ul>"  
     },
     {
       "CompanyName":"Xtremis",
