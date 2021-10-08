@@ -42,10 +42,19 @@ let resumeData = {
       "MonthOfLeaving":"Actually",
       "YearOfLeaving":"",
       "Achievements": "<ul>" +
+                      "<li>Analyzing structural requirements for new software and applications.</li></ul>" +
                       "<li>Developing database solutions (SQL / NoSQL) to store and retrieve company information and implementing software and efficient code.</li>" +
-                      "<ul><li>Migration of a monolith (RoR) to a microservices-based architecture (Event Driven, Kafka, REST API, OpenApi, GraphQL, Spring Boot, Vue.js, Elastic)</li></ul>" + 
-                      "<li>Installing and configuring information systems to ensure functionality. (K8S)</li>" + 
-                      "<li>Analyzing structural requirements for new software and applications.</li></ul>"
+                      "<ul>" + 
+                      "<li> - Migration of a monolith (RoR) to a microservices-based architecture (Event Driven, Kafka, REST API, OpenApi, GraphQL, Spring Boot, Vue.js, Elastic)</li>" +
+                      "<li> - ETL processes with Spark/Scala</li>" + 
+                      "</ul>" + 
+                      "<li>Installing and configuring information systems to ensure functionality (K8s, Rancher).</li>" + 
+                      "<ul>" +
+                      "<li> - Monitoring: Thanos, Prometheus, Grafana</li>" + 
+                      "<li> - RBAC Authorization</li>" + 
+                      "<li> - HashiCorp Vault</li>" + 
+                      "</ul>" 
+                      
     },
     {
       "CompanyName":"GrayHair Software, Inc.",
@@ -230,6 +239,18 @@ let resumeData = {
       "skillname":"Apache Parquet",
       "urlimage":"images/tech/parquet.png",
       "description": "Experience with this columnar storage format in Big Data Projects."
+    }
+  ],
+  "skills6":[
+    {
+      "skillname":"Amazon Redshift",
+      "urlimage":"images/tech/redshift.png",
+      "description": "Experience with this data warehouse service for online analytic processing (OLAP)"
+    },
+    {
+      "skillname":"PostgreSQL",
+      "urlimage":"images/tech/postgres.png",
+      "description": ""
     }
   ],
   "portfolio":[
