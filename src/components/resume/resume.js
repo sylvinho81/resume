@@ -82,6 +82,7 @@ export default  class Resume extends Component {
               <Skill skills={resumeData.skills3}/>
               <Skill skills={resumeData.skills4}/>
               <Skill skills={resumeData.skills5}/>
+              <Skill skills={resumeData.skills6}/>
    				  </div>
 
 

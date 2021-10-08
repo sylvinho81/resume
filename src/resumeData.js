@@ -42,7 +42,7 @@ let resumeData = {
       "MonthOfLeaving":"Actually",
       "YearOfLeaving":"",
       "Achievements": "<ul>" +
-                      "<li>Analyzing structural requirements for new software and applications.</li></ul>" +
+                      "<li>Analyzing structural requirements for new software and applications.</li>" +
                       "<li>Developing database solutions (SQL / NoSQL) to store and retrieve company information and implementing software and efficient code.</li>" +
                       "<ul>" + 
                       "<li> - Migration of a monolith (RoR) to a microservices-based architecture (Event Driven, Kafka, REST API, OpenApi, GraphQL, Spring Boot, Vue.js, Elastic)</li>" +
@@ -52,7 +52,8 @@ let resumeData = {
                       "<ul>" +
                       "<li> - Monitoring: Thanos, Prometheus, Grafana</li>" + 
                       "<li> - RBAC Authorization</li>" + 
-                      "<li> - HashiCorp Vault</li>" + 
+                      "<li> - HashiCorp Vault</li>" +
+                      "</ul>"  + 
                       "</ul>" 
                       
     },
