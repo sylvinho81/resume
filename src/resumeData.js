@@ -252,6 +252,16 @@ let resumeData = {
       "skillname":"PostgreSQL",
       "urlimage":"images/tech/postgres.png",
       "description": ""
+    },
+    {
+      "skillname":"Apache Hive",
+      "urlimage":"images/tech/hive.png",
+      "description": ""
+    },
+    {
+      "skillname":"Apache Pig",
+      "urlimage":"images/tech/pig.png",
+      "description": ""
     }
   ],
   "portfolio":[
