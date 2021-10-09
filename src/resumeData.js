@@ -46,7 +46,7 @@ let resumeData = {
                       "<li>Developing database solutions (SQL / NoSQL) to store and retrieve company information and implementing software and efficient code.</li>" +
                       "<ul>" + 
                       "<li> - Migration of a monolith (RoR) to a microservices-based architecture (Event Driven, Kafka, REST API, OpenApi, GraphQL, Spring Boot, Vue.js, Elastic)</li>" +
-                      "<li> - ETL processes with Spark/Scala</li>" + 
+                      "<li> - ETL processes with Spark/Scala, Hadoop, ...</li>" + 
                       "</ul>" + 
                       "<li>Installing and configuring information systems to ensure functionality (K8s, Rancher).</li>" + 
                       "<ul>" +
@@ -70,10 +70,10 @@ let resumeData = {
                       " proof of concepts, design and develop ETL processes:" +
                       "<br/><ul>"+
                       "<li> - Migration of the historical data (17 years) to AWS: S3, Apache Parquet and Glacier.</li>" + 
-                      "<li> - Ingest daily data under the batch processing model because of legacy systems.</li>" + 
-                      "<li> - Generate reports from historical and most recent data using batch processes" + 
-                      "with Spark and real-time searches with Elasticsearch respectively.</li>" + 
-                      "<li>Leading the development of the website and the API for the customers.</li></ul>"  
+                      "<li> - Ingest daily data in Redshift under the batch processing model (ETL with Spark/Scala) because of legacy systems.</li>" + 
+                      "<li> - Build a search engine in Elastisearch from the data stored in Redshift (fact tables) and Postgres (lookup tables).</li>" + 
+                      "<li> - Generate reports from historical and most recent data through Spark and a search engine with Elasticsearch respectively.</li>" + 
+                      "<li> - Leading the development of the website and the API for the clients.</li></ul>"  
     },
     {
       "CompanyName":"Xtremis",
