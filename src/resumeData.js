@@ -264,6 +264,13 @@ let resumeData = {
       "description": ""
     }
   ],
+  "skills7":[
+    {
+      "skillname":"Hadoop",
+      "urlimage":"images/tech/hadoop.png",
+      "description": ""
+    }
+  ],
   "portfolio":[
     {
       "name":"Bompom",
