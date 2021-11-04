@@ -299,6 +299,10 @@ let resumeData = {
   ],
   "courses":[
     {
+      "title":"Confluent Fundamentals Accreditation - Apache Kafka ",
+      "url":"https://www.credential.net/8e495bcd-4232-49b1-a928-3c17dde92ad1#gs.eoawbf"
+    },
+    {
       "title":"Scala & Functional Programming for Beginners | Rock the JVM",
       "url":"https://www.udemy.com/certificate/UC-2787deb8-1815-4aae-b575-b59671955f92/"
     },
