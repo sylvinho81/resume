@@ -269,6 +269,11 @@ let resumeData = {
       "skillname":"Hadoop",
       "urlimage":"images/tech/hadoop.png",
       "description": ""
+    },
+    {
+      "skillname":"Kubernetes",
+      "urlimage":"images/tech/k8s.png",
+      "description": ""
     }
   ],
   "portfolio":[
