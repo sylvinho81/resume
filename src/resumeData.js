@@ -167,25 +167,64 @@ let resumeData = {
     "description": ""
     },
     {
+      "skillname":"Hadoop",
+      "urlimage":"images/tech/hadoop.png",
+      "description": ""
+    },
+    {
+      "skillname":"Apache Hive",
+      "urlimage":"images/tech/hive.png",
+      "description": ""
+    }
+  ],
+  "skills2":[
+    {
+      "skillname":"Apache Pig",
+      "urlimage":"images/tech/pig.png",
+      "description": ""
+    },
+    {
       "skillname":"Elasticsearch",
       "urlimage":"images/tech/elasticsearch.png",
       "description": ""
     },
     {
-      "skillname":"Scala",
-      "urlimage":"images/tech/scala.png",
-      "description": ""
+      "skillname":"Amazon Redshift",
+      "urlimage":"images/tech/redshift.png",
+      "description": "Experience with this data warehouse service for online analytic processing (OLAP)"
+    },
+    {
+      "skillname":"Apache Parquet",
+      "urlimage":"images/tech/parquet.png",
+      "description": "Experience with this columnar storage format in Big Data Projects."
     }
-    ],
-  "skills2": [
+  ],
+  "skills3":[
+    {
+      "skillname":"PostgreSQL",
+      "urlimage":"images/tech/postgres.png",
+      "description": ""
+    },
+    {
+      "skillname":"Redis",
+      "urlimage":"images/tech/redis.png",
+      "description": "I have experience with this in-memory data structure store using it for deduplication and also for processing jobs asynchronously."
+    },
     {
       "skillname":"Heroku",
       "urlimage":"images/tech/heroku.jpg",
       "description": "I use Heroku as my hosting platform for most of my personal projects because so far they are all unpaid and their free tier is convenient."
     },
     {
-      "skillname":"Rails",
-      "urlimage":"images/tech/rails.png",
+      "skillname":"Kubernetes",
+      "urlimage":"images/tech/k8s.png",
+      "description": ""
+    }
+  ],
+  "skills4": [
+    {
+      "skillname":"Scala",
+      "urlimage":"images/tech/scala.png",
       "description": ""
     },
     {
@@ -194,11 +233,17 @@ let resumeData = {
       "description": ""
     },
     {
-      "skillname":"Redis",
-      "urlimage":"images/tech/redis.png",
-      "description": "I have experience with this in-memory data structure store using it for deduplication and also for processing jobs asynchronously."
-    }],
-  "skills3":[
+      "skillname":"Rails",
+      "urlimage":"images/tech/rails.png",
+      "description": ""
+    },
+    {
+      "skillname":"Spring Boot",
+      "urlimage":"images/tech/spring.png",
+      "description": ""
+    }
+  ],
+  "skills5":[
     {
       "skillname":"Bootstrap",
       "urlimage":"images/tech/bootstrap.jpg",
@@ -220,60 +265,16 @@ let resumeData = {
       "description": ""
     }
   ],
-  "skills5":[
+  "skills6":[
     {
       "skillname":"Vue JS",
       "urlimage":"images/tech/vue.png",
       "description": ""
     },
     {
-      "skillname":"Spring Boot",
-      "urlimage":"images/tech/spring.png",
-      "description": ""
-    },
-    {
       "skillname":"Apache Mahout",
       "urlimage":"images/tech/mahout.png",
       "description": "I have been working with this machine-learning library for a company in order to build a Recommender Engine."
-    },
-    {
-      "skillname":"Apache Parquet",
-      "urlimage":"images/tech/parquet.png",
-      "description": "Experience with this columnar storage format in Big Data Projects."
-    }
-  ],
-  "skills6":[
-    {
-      "skillname":"Amazon Redshift",
-      "urlimage":"images/tech/redshift.png",
-      "description": "Experience with this data warehouse service for online analytic processing (OLAP)"
-    },
-    {
-      "skillname":"PostgreSQL",
-      "urlimage":"images/tech/postgres.png",
-      "description": ""
-    },
-    {
-      "skillname":"Apache Hive",
-      "urlimage":"images/tech/hive.png",
-      "description": ""
-    },
-    {
-      "skillname":"Apache Pig",
-      "urlimage":"images/tech/pig.png",
-      "description": ""
-    }
-  ],
-  "skills7":[
-    {
-      "skillname":"Hadoop",
-      "urlimage":"images/tech/hadoop.png",
-      "description": ""
-    },
-    {
-      "skillname":"Kubernetes",
-      "urlimage":"images/tech/k8s.png",
-      "description": ""
     }
   ],
   "portfolio":[
