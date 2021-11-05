@@ -11,13 +11,6 @@ export default class ContactUs extends Component {
               </p>
             </div>
           </div>
-          <div className="row">
-            <aside className="eigth columns footer-widgets">
-              <div className="widget">
-                {<a href={"mailto:" + resumeData.mail}>{resumeData.mail}</a>}
-              </div>
-            </aside>
-          </div>
         </section>
         );
   }

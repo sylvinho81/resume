@@ -22,8 +22,8 @@ let resumeData = {
     ],
   "aboutme":"I’m a nice fun and friendly person with a good sense of humour. I am able to work independently in busy environments and also within a team setting. I am a hard working always willing to learn new skills.",
   "locality": "Coruña (A) - Spain",
-  "address":"Porto de Santa Cruz, 15179 (Oleiros)",
-  "mail":"pablotorre81@gmail.com",
+  "address":"Porto de Santa Cruz, (Oleiros)",
+  "mail":"",
   "education":[
     {
       "UniversityName":"Universidade da Coruña (UDC)",
