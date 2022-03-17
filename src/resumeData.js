@@ -35,12 +35,24 @@ let resumeData = {
   ],
   "work":[
     {
+      "CompanyName":"TrustYou",
+      "specialization":"Data Engineer",
+      "MonthOfStart":"Jan.",
+      "YearOfStart":"2022",
+      "MonthOfLeaving":"Actually",
+      "YearOfLeaving":"",
+      "Achievements": "<ul>" +
+                      "<li>Python, K8s, Microservices, Kafka, Spark</li>" +
+                      "</ul>" 
+                      
+    },
+    {
       "CompanyName":"Informa D&B.",
       "specialization":"Senior Software Architect / Data Engineer",
       "MonthOfStart":"Jun.",
       "YearOfStart":"2020",
-      "MonthOfLeaving":"Actually",
-      "YearOfLeaving":"",
+      "MonthOfLeaving":"Jan",
+      "YearOfLeaving":"2022",
       "Achievements": "<ul>" +
                       "<li>Analyzing structural requirements for new software and applications.</li>" +
                       "<li>Developing database solutions (SQL / NoSQL) to store and retrieve company information and implementing software and efficient code.</li>" +
